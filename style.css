@@ -81,6 +81,16 @@ gap:25px;
 }
 
 .load-more button{
-    margin:25px ;
-    padding: 20px;
+    margin: 30px 25px ;
+    padding: 10px 40px;
+    background-color:#506385;
+    font-size:17px;
+    border:0;
+    color:#fff;
+    cursor:pointer;
+}
+
+
+.load-more button:hover{
+    background-color:#1d3964;
 }

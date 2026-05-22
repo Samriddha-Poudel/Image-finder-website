@@ -13,7 +13,7 @@
     <h1>Image Search App</h1>
     <div class="search-cntner">
         <input type="text" id="searchInput" Placeholder="Search Images">
-<button id="search-btn">Search</button>
+<button id="search-btn " onclick="searchImages()">Search</button>
     </div>
 </header>
 
@@ -36,10 +36,10 @@
 </div>
 
 
-<p class="errormsg" id="msg">Error</p>
+<p class="errormsg" id="msg"></p>
 
-<div class="load-more" id="load more container">
-    <button >Load More</button>
+<div class="load-more" id="loadmorecontainer" style="display:none;">
+    <button onclick="loadmoreimages()" >Load More</button>
 </div>
 
 
