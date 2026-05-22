@@ -7,7 +7,15 @@ let currentpage=1;
 let currentQuery='';
 
 const searchImages = () => {
-    const query = document.getElementById('seachInput').value.trim();
+    const query = document.getElementById('searchInput').value.trim();
+    if(!query){
+        error.textContent= "Please enter a search term";
+        return;
+    }
+
+    error.textContent='';
+    currentQuery=query;
+    currentpage=1;
 }
 
 const fetchImages = () =>{
