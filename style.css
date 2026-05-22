@@ -94,3 +94,22 @@ gap:25px;
 .load-more button:hover{
     background-color:#1d3964;
 }
+
+
+footer{
+    text-align:center;
+    padding:40px;
+    margin-top:60px;
+}
+
+
+.ftr-text{
+    font-size:18px;
+    color:#506385;
+}
+
+.github{
+    text-decoration:none;
+    align-items:center;
+}
+
