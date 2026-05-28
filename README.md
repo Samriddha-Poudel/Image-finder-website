@@ -7,6 +7,10 @@ This is a simple Image Finder Web App made by using HTML, CSS and Java Script. I
 - HTML:HTML is used in this project to insert HTML elements and also to provide the structure of the website.
 - CSS:CSS is used in this project to style the HTML elements and make the Web App look interactive.
 - JS:JS is used in this project to call the API and get the images.
+
+# Note:
+This was mine starting project that i have deplyod in beest i have deplyod all of mine project through netlify which i have sumbited and my free trail of netlify has been full of limit so my website is down in netlify so i have uploaded it from github pages so you can cehck it out from here .
+
   
  # How to use it:
   To use this Web App you just have to visit https://samriddha-image-finder.netlify.app/
