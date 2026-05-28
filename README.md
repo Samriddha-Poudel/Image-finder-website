@@ -13,4 +13,4 @@ This was mine starting project that i have deplyod in beest i have deplyod all o
 
   
  # How to use it:
-  To use this Web App you just have to visit https://samriddha-image-finder.netlify.app/
+  To use this Web App you just have to visit https://samriddha-poudel.github.io/Image-finder-website/ .
