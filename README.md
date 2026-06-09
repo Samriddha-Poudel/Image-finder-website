@@ -9,7 +9,7 @@ This is a simple Image Finder Web App made by using HTML, CSS and Java Script. I
 - JS:JS is used in this project to call the API and get the images.
 
 # Note:
-This was mine starting project that i have deplyod in beest i have deplyod all of mine project through netlify which i have sumbited and my free trail of netlify has been full of limit so my website is down in netlify so i have uploaded it from github pages so you can cehck it out from here .
+This was mine starting project that i have deplyod in beest i have deplyod all of mine project through netlify which i have sumbited and my free trail of netlify has been full of limit so my website is down in netlify so i have uploaded it from github pages so you can cehck it out from here . Also i used AI for hinding the API but it was done by windsurf agent which used backed i didn't knew that it would be that complex so i deleted that all of them 
 
   
  # How to use it:
